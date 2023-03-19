@@ -1,0 +1,12 @@
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\bin\Debug\THA_W3_Daniel_O.exe.config
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\bin\Debug\THA_W3_Daniel_O.exe
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\bin\Debug\THA_W3_Daniel_O.pdb
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.csproj.AssemblyReference.cache
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.MainForm.resources
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.Form2.resources
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.Properties.Resources.resources
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.csproj.GenerateResource.cache
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.csproj.CoreCompileInputs.cache
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.exe
+C:\Users\Danie\OneDrive\Documents\ALPRO\THA_W3_Daniel_O\THA_W3_Daniel_O\obj\Debug\THA_W3_Daniel_O.pdb
